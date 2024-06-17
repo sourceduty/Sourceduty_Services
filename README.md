@@ -20,4 +20,4 @@ Sourceduty offers basic minimum services starting at $25 USD, which include a sh
 
 #
 
-Send an email to [Sourceduty](sourceduty@gmail.com) and hire Alex!
+Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
