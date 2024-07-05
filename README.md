@@ -23,6 +23,9 @@ Alex specializes in:
 ~ Product packaging
 ~ 3D printing models
 ~ Industrial design
+~ Python development
+~ Wedding design
+~ Food design
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
