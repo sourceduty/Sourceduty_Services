@@ -21,7 +21,8 @@ Alex specializes in:
 ~ Fan art
 ~ Concept art
 ~ Product packaging
-~ 3D models
+~ 3D printing models
+~ Industrial design
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
