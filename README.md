@@ -19,6 +19,7 @@ Alex specializes in:
 ~ Music stage design
 ~ Logo design
 ~ Fan art
+~ Concept art
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
