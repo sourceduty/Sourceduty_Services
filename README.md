@@ -7,7 +7,7 @@ Alex specializes in:
 
 ~ Product design
 ~ Sci-fi design
-~ Car design
+~ Vehicle design
 ~ Mechanical design
 ~ Business models
 ~ Software development
