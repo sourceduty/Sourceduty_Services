@@ -6,6 +6,8 @@ Sourceduty is a creative digital company that was established by Alex Aldridge i
 Alex specializes in:
 
 ~ Product design
+~ Minimalist product design
+~ Product packaging
 ~ Sci-fi design
 ~ Vehicle design
 ~ Mechanical design
@@ -20,7 +22,6 @@ Alex specializes in:
 ~ Logo design
 ~ Fan art
 ~ Concept art
-~ Product packaging
 ~ 3D printing models
 ~ Industrial design
 ~ Python development
