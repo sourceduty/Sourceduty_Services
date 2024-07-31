@@ -5,7 +5,7 @@ Sourceduty is a creative digital company that was established by Alex Aldridge i
 ```
 Alex's Skillset
 |
-+-- Design
++---+ Design
 |   |
 |   +---+ Product Design
 |   |   |
