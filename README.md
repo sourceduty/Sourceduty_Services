@@ -5,27 +5,29 @@ Sourceduty is a creative digital company that was established by Alex Aldridge i
 ```
 Alex's Skillset
 |
-+---+ Design
-|   |
-|   +---+ Product Design
-|   |   |
-|   |   +-- Minimalist Product Design
-|   |   +-- Product Packaging
-|   |   +-- Vehicle Design
-|   |   +-- Mechanical Design
-|   |   +-- Industrial Design
-|   |   +-- House Design
-|   |   +-- Electronics Design
-|   |   +-- 3D Printing Models
-|   |   +-- Wedding Design
-|   |   +-- Food Design
-|   |   +-- Logo Design
-|   |   +-- Music Stage Design
-|   |
-|   +--+ Concept Art
-|      |
-|      +-- Sci-fi Design
-|      +-- Fan Art
++-+ Design
+| |
+| +-+ Product Design
+| | |
+| | +-- Minimalist Product Design
+| | +-- Product Packaging
+| | +-- Vehicle Design
+| | +-- Mechanical Design
+| | +-- Industrial Design
+| | +-- House Design
+| | +-- Electronics Design
+| | +-- 3D Printing Models
+| | +-- Wedding Design
+| | +-- Food Design
+| | +-- Logo Design
+| | +-- Music Stage Design
+| |
+| +--+ Concept Art
+| |  |
+| |  +-- Sci-fi Design
+| |  +-- Fan Art
+| |
+| +--+ Topology
 |
 +--+ Entertainment Design
 |  |
@@ -45,8 +47,8 @@ Alex's Skillset
 |  +-- Process Modelling
 |
 +--+ Business
-   |
-   +-- Business Models
+|
++-- Business Models
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
