@@ -22,33 +22,33 @@ Alex's Skillset
 | | +-- Logo Design
 | | +-- Music Stage Design
 | |
-| +--+ Concept Art
-| |  |
-| |  +-- Sci-fi Design
-| |  +-- Fan Art
+| +-+ Concept Art
+| | |
+| | +-- Sci-fi Design
+| | +-- Fan Art
 | |
-| +--+ Topology
+| +-+ Topology
 |
-+--+ Entertainment Design
-|  |
-|  +-- Movie Set Design
-|  +-- Movie Ideas
-|  +-- Game Concept Design
-|  +-- Concept Art
-|  +-- Fan Art
++-+ Entertainment Design
+| |
+| +-- Movie Set Design
+| +-- Movie Ideas
+| +-- Game Concept Design
+| +-- Concept Art
+| +-- Fan Art
 |
-+--+ Technology
-|  |
-|  +-- Software Development
-|  |
-|  +-- Python Development
-|  +-- Custom GPTs
-|  +-- UI Design
-|  +-- Process Modelling
++-+ Technology
+| |
+| +-- Software Development
+| |
+| +-- Python Development
+| +-- Custom GPTs
+| +-- UI Design
+| +-- Process Modelling
 |
-+--+ Business
-|
-+-- Business Models
++-+ Business
+  |
+  +-- Business Models
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
