@@ -3,34 +3,50 @@
 Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. 
 
 ```
-Alex specializes in:
-
-~ Product design
-~ Minimalist product design
-~ Product packaging
-~ Sci-fi design
-~ Vehicle design
-~ Mechanical design
-~ Business models
-~ Software development
-~ Game concept design
-~ House design
-~ Electronics
-~ Movie set design
-~ Movie ideas
-~ Music stage design
-~ Logo design
-~ Fan art
-~ Concept art
-~ 3D printing models
-~ Industrial design
-~ Python development
-~ Wedding design
-~ Food design
-~ UI design
-~ Process modelling
-~ Custom GPTs
-~ Topology
+Alex's Skillset
+|
++-- Design
+|   |
+|   +---+ Product Design
+|   |   |
+|   |   +-- Minimalist Product Design
+|   |   +-- Product Packaging
+|   |   +-- Vehicle Design
+|   |   +-- Mechanical Design
+|   |   +-- Industrial Design
+|   |   +-- House Design
+|   |   +-- Electronics Design
+|   |   +-- 3D Printing Models
+|   |   +-- Wedding Design
+|   |   +-- Food Design
+|   |   +-- Logo Design
+|   |   +-- Music Stage Design
+|   |
+|   +--+ Concept Art
+|      |
+|      +-- Sci-fi Design
+|      +-- Fan Art
+|
++--+ Entertainment Design
+|  |
+|  +-- Movie Set Design
+|  +-- Movie Ideas
+|  +-- Game Concept Design
+|  +-- Concept Art
+|  +-- Fan Art
+|
++--+ Technology
+|  |
+|  +-- Software Development
+|  |
+|  +-- Python Development
+|  +-- Custom GPTs
+|  +-- UI Design
+|  +-- Process Modelling
+|
++--+ Business
+   |
+   +-- Business Models
 ```
 
 Sourceduty offers basic minimum services starting at $25 USD, which include a short plan and simple design. To assist in the creation of new digital assets, Alex utilizes his [custom GPTs](https://github.com/sourceduty/ChatGPT).
