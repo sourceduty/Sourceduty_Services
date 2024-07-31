@@ -3,7 +3,7 @@
 Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. 
 
 ```
-Alex's Skillset
+Alex's Digital Skillset
 |
 +-+ Design
 | |
