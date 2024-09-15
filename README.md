@@ -1,6 +1,10 @@
 ![Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services/assets/123030236/6df944d0-f8b4-449e-a594-25a46c58f1bb)
 
-Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. 
+> Digital asset design and development services by Sourceduty.
+
+Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. Sourceduty Services, provides digital asset design and development services, specializing in product design, concept art, software development, and business models. The services cover various industries, offering tailored designs, including minimalist product designs, vehicle and mechanical designs, as well as custom software solutions such as GPT models. Sourceduty and Alex also offer private white-label solutions, allowing businesses to remain private while developing and customizing products for their market. 
+
+<br>
 
 ```
 Alex's Digital Skillset
@@ -65,7 +69,15 @@ White label private work involves creating products or services that are produce
 
 #
 
+![Growth](https://github.com/user-attachments/assets/4f0824db-7242-4b05-9acb-ac6c74ad84f3)
+
+#
+
 Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
+
+#
+
+Alex: "*You only get one shot, do not miss your chance to blow.*"
 
 #
 ### Related Links
