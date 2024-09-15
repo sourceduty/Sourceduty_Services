@@ -2,6 +2,8 @@
 
 > Digital asset design and development services by Sourceduty.
 
+#
+
 Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. Sourceduty Services, provides digital asset design and development services, specializing in product design, concept art, software development, and business models. The services cover various industries, offering tailored designs, including minimalist product designs, vehicle and mechanical designs, as well as custom software solutions such as GPT models. Sourceduty and Alex also offer private white-label solutions, allowing businesses to remain private while developing and customizing products for their market. 
 
 <br>
