@@ -79,7 +79,7 @@ Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
 
 #
 
-Alex: "*You only get one shot, do not miss your chance to blow.*"
+> Alex: "*You only get one shot, do not miss your chance to blow.*"
 
 #
 ### Related Links
