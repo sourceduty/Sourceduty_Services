@@ -73,7 +73,7 @@ White label private work involves creating products or services that are produce
 
 #
 
-![Growth](https://github.com/user-attachments/assets/4f0824db-7242-4b05-9acb-ac6c74ad84f3)
+![Working](https://github.com/user-attachments/assets/44efb9d9-eb09-4dd5-ab46-cdd23ab74977)
 
 #
 
