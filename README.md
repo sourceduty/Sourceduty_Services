@@ -67,6 +67,11 @@ Sourceduty offers basic minimum services starting at $25 USD, which include a sh
 White label private work involves creating products or services that are produced by one company but rebranded and sold by another as their own. This approach allows businesses to offer high-quality, specialized products without the need to invest in the development and production processes themselves. By leveraging white label solutions, companies can quickly expand their product offerings, enter new markets, and meet customer demands with minimal overhead costs. The original producers remain anonymous, and the purchasing companies gain the flexibility to customize and brand the products to align with their unique market positioning and brand identity.
 
 #
+### Customized Work
+
+Unlike automated solutions, Sourceduty focuses on bespoke manually customized services, offering custom 3D models, concept art, and design solutions tailored to the unique needs of each client. This approach ensures that every creation reflects a high degree of craftsmanship and artistic integrity, catering to industries that value originality and individualization. Alex's vision for Sourceduty revolves around delivering unparalleled customization, fostering innovation, and enhancing creative expression through meticulously personalized digital offerings.
+
+#
 ### Opportunity
 
 Sourceduty's unique position in the AI revolution is defined by its innovative use of advanced 3D modeling and custom AI tools to create digital assets that anticipate the future of digital experiences. By integrating cutting-edge technologies, Sourceduty offers a compelling value proposition for businesses seeking to stay ahead in an evolving digital landscape. The company’s expertise in leveraging AI for personalized and scalable digital creations makes it a powerful partner for industries looking to innovate and transform their digital strategies in a rapidly changing market.
