@@ -103,4 +103,4 @@ Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
 <br>
 [Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
 <br>
-[Sourceduty Empoloyee](https://github.com/sourceduty/Sourceduty_Employee)
+[Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
