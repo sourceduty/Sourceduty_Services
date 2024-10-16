@@ -101,4 +101,6 @@ Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
 <br>
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
 <br>
-[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+[Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
+<br>
+[Sourceduty Empoloyee](https://github.com/sourceduty/Sourceduty_Employee)
