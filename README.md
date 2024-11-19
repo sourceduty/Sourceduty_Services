@@ -71,6 +71,8 @@ White label private work involves creating products or services that are produce
 #
 ### Customized Human Work
 
+![Headassing](https://github.com/user-attachments/assets/d2111193-0f60-4a0f-bc83-917fa6e6df62)
+
 Unlike automated solutions, Sourceduty focuses on bespoke manually customized services, offering custom 3D models, concept art, and design solutions tailored to the unique needs of each client. This approach ensures that every creation reflects a high degree of craftsmanship and artistic integrity, catering to industries that value originality and individualization. Alex's vision for Sourceduty revolves around delivering unparalleled customization, fostering innovation, and enhancing creative expression through meticulously personalized digital offerings.
 
 #
