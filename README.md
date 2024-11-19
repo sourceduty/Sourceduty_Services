@@ -94,6 +94,8 @@ Send an email to [Sourceduty](mailto:sourceduty@gmail.com) and hire Alex!
 
 > Alex: "*You only get one shot, do not miss your chance to blow.*"
 
+> "*I always utilize two computers. One laptop manages Sourceduty, and the other to manages Sourceduty Services.*"
+
 #
 ### Related Links
 
