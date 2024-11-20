@@ -8,7 +8,9 @@ Sourceduty is a creative digital company that was established by Alex Aldridge i
 
 Alex’s original work for Sourceduty showcases a unique blend of creativity and technical expertise, making a significant impact on the company's digital art offerings. From concept to completion, Alex has been instrumental in developing visually stunning 3D models and animations that align with Sourceduty's vision. Their work stands out for its intricate details, vibrant color palettes, and seamless integration into various digital environments, enhancing user experience and engagement. By experimenting with emerging techniques and tools, Alex continually pushes the boundaries of what’s possible in digital art, helping Sourceduty stay at the forefront of innovation in the industry.
 
-<br>
+#
+![Dance](https://github.com/user-attachments/assets/00b61cae-2d19-4f52-bf80-9ddf372a108d)
+#
 
 ```
 Alex's Digital Skillset
